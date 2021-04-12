@@ -4,8 +4,6 @@
 
 #### Responsible, executive. I complete the tasks on time and qualitatively.
 
-Skills: REACT / JS / HTML / CSS/ NODE/ MongoDB;
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SerhiiDykyi&hide=javascript,html&show_icons=true&theme=gruvbox)
 
 ---
@@ -32,9 +30,9 @@ Skills: REACT / JS / HTML / CSS/ NODE/ MongoDB;
 
 <img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 
-<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left"  alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
-<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" color="#ffffff" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
