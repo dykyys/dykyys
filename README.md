@@ -8,7 +8,7 @@
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=dykyysi&show_icons=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=dykyys&show_icons=true&theme=gruvbox)
 
 ## Get in touch:
 
