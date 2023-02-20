@@ -4,9 +4,6 @@
 
 #### Responsible, executive. I complete the tasks on time and qualitatively.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dykyys&hide=javascript,html&show_icons=true&theme=gruvbox)
-
----
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=dykyys&show_icons=true&theme=gruvbox)
 
