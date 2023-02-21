@@ -13,33 +13,18 @@
 ### My stack and tools
 
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-
- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="54" title="Redux" alt="Redux" width="32" height="32" />
- 
+<img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="54" title="Redux" alt="Redux" width="32" height="32" />
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-
 <img align="left" alt="MongoDB" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
-
 <img align="left" alt="json" width="32px" src="https://raw.githubusercontent.com/IvanFesenko/IvanFesenko/master/img/json_icon.png" />
-
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
 <img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-
 <img align="left" alt="Terminal" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
 <img align="left"  alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
 <img align="left" alt="npm" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />
-
 <img align="left" alt="gulp" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" />
-
 <img align="left" alt="webpack" width="32px" src="https://raw.githubusercontent.com/IvanFesenko/IvanFesenko/master/img/webpack.jpg" />
-
 <img align="left" color="white" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/github.png" />
-
- <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="54" title="Figma" alt="Figma" width="32" height="32" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="54" title="Figma" alt="Figma" width="32" height="32" />
