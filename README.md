@@ -1,4 +1,4 @@
-### Hi there 👋, I`m Serhii! :bear:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Menlo&size=25&pause=1000&color=58CA3E&center=true&vCenter=true&width=435&lines=Hi+there%2C+I%60m+Sergey+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ---
 
