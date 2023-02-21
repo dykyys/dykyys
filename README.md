@@ -16,7 +16,7 @@
 
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 
- <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="54" title="Redux" alt="Redux" width="40" height="40" &nbsp; />
+ <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="54" title="Redux" alt="Redux" width="40" height="40" />
  
 <img align="left" alt="Node.js" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
 
@@ -42,4 +42,4 @@
 
 <img align="left" color="white" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/github.png" />
 
- <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="54" title="Figma" alt="Figma" width="40" height="40" &nbsp; />
+ <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="54" title="Figma" alt="Figma" width="40" height="40" />
