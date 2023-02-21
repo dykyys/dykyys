@@ -26,4 +26,4 @@
 <img align="left" alt="gulp" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/gulp/gulp.png" />
 <img align="left" alt="webpack" width="32px" src="https://raw.githubusercontent.com/IvanFesenko/IvanFesenko/master/img/webpack.jpg" />
 <img align="left" color="white" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/github.png" />
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="54" title="Figma" alt="Figma" width="32" height="32" />
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="54" title="Figma" alt="Figma" width="32" height="32" /><img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" width="54" title="Redux" alt="Redux" width="32" height="32" />
