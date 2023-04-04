@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Menlo&size=25&pause=1000&color=58CA3E&center=true&vCenter=true&width=635&lines=Hi+there%2C+I%60m+dykyys+%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Menlo&size=25&pause=1000&color=58CA3E&center=true&vCenter=true&width=635&lines=Hi+there%2C+I%60m+dykyy.s+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 ---
 
@@ -29,5 +29,5 @@
 <img align="left" alt="webpack" title="Webpack" width="32px" src="https://raw.githubusercontent.com/IvanFesenko/IvanFesenko/master/img/webpack.jpg" />
 <img align="left" color="white" alt="GitHub" title="GitHub"  width="32px" src="https://raw.githubusercontent.com/Google-Barma/google-barma/master/image/github.png" />
 <img align="left" color="white" alt="Eslint" title="Eslint" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/eslint/eslint-original.svg" />
-<img align="left" color="white" alt="Figma" title="Figma" width="32px" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" />
+
 
