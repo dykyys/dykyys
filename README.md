@@ -8,7 +8,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-SerhiiDykyi-0072b1?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/serhii-dykyi-5342431bb/)](https://www.linkedin.com/in/dykyy/)
 [![Gmail Badge](https://img.shields.io/badge/-dykyy.s@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=DmwnWrRspPhrklBrCwrrvcRNFjmrpLtFWzvPlsjXfFBPtQRnhppGjnkDZhRGTMgCKMfhDPPhBlPQ)
 [![Telegram Badge](https://img.shields.io/badge/-dykyy-2CA5E0?style=flat&logo=telegram&logoColor=white)](https://t.me/dykyy)
-![Profile views](https://gpvc.arturio.dev/SerhiiDykyi)
+![Profile views](https://gpvc.arturio.dev/dykyys)
 
 ### My stack and tools
 
